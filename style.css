@@ -1,0 +1,28 @@
+body::before {
+  content: "";
+  display: block;
+  height: 56px;
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(bg1.webp);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(bg2.webp);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(bg3.webp);
+}
+
+.container {
+  width: 100%;
+  height: 70vh;
+}
